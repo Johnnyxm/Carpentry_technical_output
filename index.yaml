@@ -1,0 +1,30 @@
+schema_version: "1.0"
+repository_role: public_notion_technical_output
+public: true
+
+products:
+  wooden_dummy:
+    label: Wooden Dummy
+    modules:
+      frame:
+        label: Telaio
+        components:
+          flex_slats:
+            label: Listelli flettenti
+            outputs:
+              LF-FORATURA-001:
+                title: Foratura listello flettente
+                current_revision: B
+                specification_path: wooden-dummy/frame/flex-slats/LF-FORATURA-001/README.md
+                drawing_path: wooden-dummy/frame/flex-slats/LF-FORATURA-001/LF-FORATURA-001_revB.svg
+                public_spec_url: https://github.com/Johnnyxm/Carpentry_technical_output/tree/main/wooden-dummy/frame/flex-slats/LF-FORATURA-001
+                raw_drawing_url: https://raw.githubusercontent.com/Johnnyxm/Carpentry_technical_output/main/wooden-dummy/frame/flex-slats/LF-FORATURA-001/LF-FORATURA-001_revB.svg
+                applies_to:
+                  product_id: PRD_001
+                  generation_step_id: PRD_001_GEN_001_STEP_035
+                  recipe_id: EQ_002_ACT_001_REC_002
+                piece:
+                  material: frassino
+                  dimensions_mm: [25, 56, 1300]
+                  quantity_per_frame: 2
+                status: supported
