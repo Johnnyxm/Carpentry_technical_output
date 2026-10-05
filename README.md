@@ -24,6 +24,10 @@ La logica di processo, BOM, readiness e regole resta nel repository privato `fal
   - [Telaio](wooden-dummy/frame/README.md)
     - [Listelli flettenti](wooden-dummy/frame/flex-slats/README.md)
       - [LF-FORATURA-001 — Foratura listello flettente](wooden-dummy/frame/flex-slats/LF-FORATURA-001/README.md)
+    - [Listellini assemblaggio](wooden-dummy/frame/assembly-strips/README.md)
+      - [LTA-FORATURA-001 — Foratura e svasatura](wooden-dummy/frame/assembly-strips/LTA-FORATURA-001/README.md)
+    - [Distanziali](wooden-dummy/frame/spacers/README.md)
+      - [DT-DIMENSIONI-001 — Geometria 80×25×25](wooden-dummy/frame/spacers/DT-DIMENSIONI-001/README.md)
 
 ## Regole di pubblicazione
 
