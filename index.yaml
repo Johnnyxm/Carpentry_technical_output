@@ -28,3 +28,42 @@ products:
                   dimensions_mm: [25, 56, 1300]
                   quantity_per_frame: 2
                 status: supported
+
+          assembly_strips:
+            label: Listellini assemblaggio telaio
+            outputs:
+              LTA-FORATURA-001:
+                title: Foratura e svasatura listellino assemblaggio telaio
+                current_revision: A
+                specification_path: wooden-dummy/frame/assembly-strips/LTA-FORATURA-001/README.md
+                drawing_path: wooden-dummy/frame/assembly-strips/LTA-FORATURA-001/LTA-FORATURA-001_revA.svg
+                public_spec_url: https://github.com/Johnnyxm/Carpentry_technical_output/tree/main/wooden-dummy/frame/assembly-strips/LTA-FORATURA-001
+                raw_drawing_url: https://raw.githubusercontent.com/Johnnyxm/Carpentry_technical_output/main/wooden-dummy/frame/assembly-strips/LTA-FORATURA-001/LTA-FORATURA-001_revA.svg
+                applies_to:
+                  product_id: PRD_001
+                  generation_step_id: PRD_001_GEN_001_STEP_057
+                  recipe_id: EQ_002_ACT_001_REC_005
+                piece:
+                  material: frassino
+                  dimensions_mm: [500, 27, 25]
+                  quantity_per_frame: 2
+                status: supported
+          spacers:
+            label: Distanziali telaio
+            outputs:
+              DT-DIMENSIONI-001:
+                title: Geometria distanziale telaio
+                current_revision: A
+                specification_path: wooden-dummy/frame/spacers/DT-DIMENSIONI-001/README.md
+                drawing_path: wooden-dummy/frame/spacers/DT-DIMENSIONI-001/DT-DIMENSIONI-001_revA.svg
+                public_spec_url: https://github.com/Johnnyxm/Carpentry_technical_output/tree/main/wooden-dummy/frame/spacers/DT-DIMENSIONI-001
+                raw_drawing_url: https://raw.githubusercontent.com/Johnnyxm/Carpentry_technical_output/main/wooden-dummy/frame/spacers/DT-DIMENSIONI-001/DT-DIMENSIONI-001_revA.svg
+                applies_to:
+                  product_id: PRD_001
+                  generation_step_id: PRD_001_GEN_001_STEP_058
+                  recipe_id: EQ_009_ACT_001_REC_002
+                piece:
+                  material: frassino
+                  dimensions_mm: [80, 25, 25]
+                  quantity_per_frame: 4
+                status: supported
