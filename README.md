@@ -14,6 +14,10 @@ Non devono essere caricati qui dati clienti, prezzi/margini interni, log gestion
 
 La logica di processo, BOM, readiness e regole resta nel repository privato `falegnameria-management`.
 
+## Indice macchina
+
+- [index.yaml](index.yaml) — registro machine-readable degli output pubblici correnti.
+
 ## Albero di selezione
 
 - [Wooden Dummy](wooden-dummy/README.md)
