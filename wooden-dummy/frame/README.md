@@ -1,7 +1,20 @@
 # Wooden Dummy — Telaio
 
-## Componenti
+## Albero pezzi
 
-- [Listelli flettenti](flex-slats/README.md)
+- **Listelli 25×56×1300 mm**
+  - [Flettenti](flex-slats/README.md) — **2 per telaio**
+  - Supporti / spalle a parete — **4 per telaio**
+- **Elementi rigidi**
+  - 320×80×18 mm
+  - 295×80×18 mm
+  - piastre 140×80×18 mm
+- **Recuperi frassino 25 mm**
+  - listellini 500×27×25 mm
+  - distanziali 80×20–30×25 mm
+- **Stopper telaio**
+- **Ferramenta telaio**
 
-Nota: per ogni telaio ci sono **2 listelli flettenti** e **4 listelli di supporto/spalla a parete**. I due gruppi non vanno confusi nelle lavorazioni.
+### Distinzione obbligatoria
+
+I **2 listelli flettenti** e i **4 supporti/spalle a parete** hanno la stessa sezione nominale 25×56×1300 mm ma sono componenti funzionalmente diversi. Le lavorazioni non vanno propagate automaticamente da un gruppo all'altro.
