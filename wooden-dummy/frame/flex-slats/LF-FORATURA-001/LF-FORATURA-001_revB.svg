@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>
+text{font-family:Arial,sans-serif;fill:#111}
+.dim{stroke:#1769d2;stroke-width:1.5;fill:none}
+.thin{stroke:#111;stroke-width:1;fill:none}
+.center{stroke:#1769d2;stroke-width:1;stroke-dasharray:8 5}
+.hole{stroke:#111;stroke-width:1.5;fill:white}
+.label{font-size:20px;font-weight:700}
+.small{font-size:16px}
+.tiny{font-size:14px}
+.title{font-size:34px;font-weight:700}
+</style>
+<rect x="8" y="8" width="1584" height="884" class="thin"/>
+<text x="800" y="55" text-anchor="middle" class="title">LISTELLO FLETTENTE — FORATURA</text>
+<text x="800" y="85" text-anchor="middle" class="small">LF-FORATURA-001 Rev. B • Frassino 25×56×1300 mm • 2 pezzi per telaio</text>
+
+<!-- Main view, exact geometric scale: 1300 x 56 -->
+<text x="150" y="155" class="label">VISTA FRONTALE — scala geometrica</text>
+<rect x="150" y="220" width="1300" height="56" class="thin"/>
+<line x1="150" y1="248" x2="1450" y2="248" class="center"/>
+<line x1="800" y1="170" x2="800" y2="470" class="center"/>
+<text x="800" y="190" text-anchor="middle" class="small">CENTRO LISTELLO</text>
+
+<!-- Holes exact diameter and exact x positions -->
+<circle cx="200" cy="248" r="4.5" class="hole"/>
+<circle cx="230" cy="248" r="3.5" class="hole"/>
+<circle cx="680" cy="248" r="3.5" class="hole"/>
+<circle cx="920" cy="248" r="3.5" class="hole"/>
+<circle cx="1370" cy="248" r="3.5" class="hole"/>
+<circle cx="1400" cy="248" r="4.5" class="hole"/>
+
+<!-- Hole labels -->
+<text x="200" y="205" text-anchor="middle" class="small">Ø9</text>
+<text x="230" y="315" text-anchor="middle" class="small">Ø7</text>
+<text x="680" y="205" text-anchor="middle" class="small">Ø7</text>
+<text x="920" y="205" text-anchor="middle" class="small">Ø7</text>
+<text x="1370" y="315" text-anchor="middle" class="small">Ø7</text>
+<text x="1400" y="205" text-anchor="middle" class="small">Ø9</text>
+
+<!-- Overall dimensions -->
+<line x1="150" y1="125" x2="1450" y2="125" class="dim"/>
+<line x1="150" y1="115" x2="150" y2="220" class="dim"/>
+<line x1="1450" y1="115" x2="1450" y2="220" class="dim"/>
+<text x="800" y="118" text-anchor="middle" class="small">1300</text>
+<line x1="105" y1="220" x2="105" y2="276" class="dim"/>
+<line x1="95" y1="220" x2="150" y2="220" class="dim"/>
+<line x1="95" y1="276" x2="150" y2="276" class="dim"/>
+<text x="88" y="253" text-anchor="middle" class="small" transform="rotate(-90 88 253)">56</text>
+
+<!-- Symmetric dimensions from center -->
+<line x1="680" y1="355" x2="800" y2="355" class="dim"/>
+<line x1="800" y1="355" x2="920" y2="355" class="dim"/>
+<text x="740" y="347" text-anchor="middle" class="small">120</text>
+<text x="860" y="347" text-anchor="middle" class="small">120</text>
+
+<line x1="230" y1="400" x2="800" y2="400" class="dim"/>
+<line x1="800" y1="400" x2="1370" y2="400" class="dim"/>
+<text x="515" y="392" text-anchor="middle" class="small">570</text>
+<text x="1085" y="392" text-anchor="middle" class="small">570</text>
+
+<line x1="200" y1="445" x2="800" y2="445" class="dim"/>
+<line x1="800" y1="445" x2="1400" y2="445" class="dim"/>
+<text x="500" y="437" text-anchor="middle" class="small">600</text>
+<text x="1100" y="437" text-anchor="middle" class="small">600</text>
+<text x="800" y="472" text-anchor="middle" class="small">Quote simmetriche dal centro listello [mm]</text>
+
+<!-- End view -->
+<text x="150" y="535" class="label">VISTA DI TESTA</text>
+<rect x="150" y="565" width="112" height="50" class="thin"/>
+<text x="206" y="640" text-anchor="middle" class="small">56 × 25 mm</text>
+
+<!-- Coordinate table -->
+<text x="400" y="535" class="label">POSIZIONI FORI</text>
+<rect x="400" y="550" width="650" height="220" class="thin"/>
+<line x1="400" y1="590" x2="1050" y2="590" class="thin"/>
+<line x1="480" y1="550" x2="480" y2="770" class="thin"/>
+<line x1="610" y1="550" x2="610" y2="770" class="thin"/>
+<line x1="820" y1="550" x2="820" y2="770" class="thin"/>
+<text x="440" y="577" text-anchor="middle" class="tiny">N.</text>
+<text x="545" y="577" text-anchor="middle" class="tiny">Ø</text>
+<text x="715" y="577" text-anchor="middle" class="tiny">X da sinistra</text>
+<text x="935" y="577" text-anchor="middle" class="tiny">Quota centro</text>
+<text x="440" y="620" text-anchor="middle" class="tiny">1</text>
+<text x="545" y="620" text-anchor="middle" class="tiny">Ø9</text>
+<text x="715" y="620" text-anchor="middle" class="tiny">50 mm</text>
+<text x="935" y="620" text-anchor="middle" class="tiny">−600 mm</text>
+<text x="440" y="645" text-anchor="middle" class="tiny">2</text>
+<text x="545" y="645" text-anchor="middle" class="tiny">Ø7</text>
+<text x="715" y="645" text-anchor="middle" class="tiny">80 mm</text>
+<text x="935" y="645" text-anchor="middle" class="tiny">−570 mm</text>
+<text x="440" y="670" text-anchor="middle" class="tiny">3</text>
+<text x="545" y="670" text-anchor="middle" class="tiny">Ø7</text>
+<text x="715" y="670" text-anchor="middle" class="tiny">530 mm</text>
+<text x="935" y="670" text-anchor="middle" class="tiny">−120 mm</text>
+<text x="440" y="695" text-anchor="middle" class="tiny">4</text>
+<text x="545" y="695" text-anchor="middle" class="tiny">Ø7</text>
+<text x="715" y="695" text-anchor="middle" class="tiny">770 mm</text>
+<text x="935" y="695" text-anchor="middle" class="tiny">+120 mm</text>
+<text x="440" y="720" text-anchor="middle" class="tiny">5</text>
+<text x="545" y="720" text-anchor="middle" class="tiny">Ø7</text>
+<text x="715" y="720" text-anchor="middle" class="tiny">1220 mm</text>
+<text x="935" y="720" text-anchor="middle" class="tiny">+570 mm</text>
+<text x="440" y="745" text-anchor="middle" class="tiny">6</text>
+<text x="545" y="745" text-anchor="middle" class="tiny">Ø9</text>
+<text x="715" y="745" text-anchor="middle" class="tiny">1250 mm</text>
+<text x="935" y="745" text-anchor="middle" class="tiny">+600 mm</text>
+
+<!-- Notes -->
+<text x="1100" y="535" class="label">NOTE</text>
+<text x="1100" y="570" class="small">• 4 fori Ø7: ±120 e ±570 mm</text>
+<text x="1100" y="600" class="small">• 2 fori Ø9: ±600 mm</text>
+<text x="1100" y="630" class="small">• asse fori: 28 mm dai bordi</text>
+<text x="1100" y="660" class="small">• svasatura leggera</text>
+<text x="1100" y="690" class="small">• 8 pezzi per RUN_001</text>
+<text x="1100" y="720" class="small">• altri 4 listelli/telaio = spalle parete</text>
+<text x="1100" y="750" class="small">  (non rientrano in questa foratura)</text>
+
+<!-- Title block -->
+<rect x="1100" y="790" width="350" height="70" class="thin"/>
+<text x="1120" y="820" class="small">Disegno: LF-FORATURA-001</text>
+<text x="1120" y="845" class="small">Revisione: B • Unità: mm</text>
+</svg>
