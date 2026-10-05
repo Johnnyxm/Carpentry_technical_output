@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="white"/>
 <style>
 text{font-family:Arial,sans-serif;fill:#111}
 .dim{stroke:#1769d2;stroke-width:1.5;fill:none}
@@ -12,7 +13,7 @@ text{font-family:Arial,sans-serif;fill:#111}
 </style>
 <rect x="8" y="8" width="1584" height="884" class="thin"/>
 <text x="800" y="55" text-anchor="middle" class="title">LISTELLO FLETTENTE — FORATURA</text>
-<text x="800" y="85" text-anchor="middle" class="small">LF-FORATURA-001 Rev. B • Frassino 25×56×1300 mm • 2 pezzi per telaio</text>
+<text x="800" y="85" text-anchor="middle" class="small">LF-FORATURA-001 Rev. B • Frassino 25×56×1300 mm</text>
 
 <!-- Main view, exact geometric scale: 1300 x 56 -->
 <text x="150" y="155" class="label">VISTA FRONTALE — scala geometrica</text>
@@ -111,9 +112,6 @@ text{font-family:Arial,sans-serif;fill:#111}
 <text x="1100" y="600" class="small">• 2 fori Ø9: ±600 mm</text>
 <text x="1100" y="630" class="small">• asse fori: 28 mm dai bordi</text>
 <text x="1100" y="660" class="small">• svasatura leggera</text>
-<text x="1100" y="690" class="small">• 8 pezzi per RUN_001</text>
-<text x="1100" y="720" class="small">• altri 4 listelli/telaio = spalle parete</text>
-<text x="1100" y="750" class="small">  (non rientrano in questa foratura)</text>
 
 <!-- Title block -->
 <rect x="1100" y="790" width="350" height="70" class="thin"/>
