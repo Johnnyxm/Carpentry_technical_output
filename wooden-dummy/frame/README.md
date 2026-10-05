@@ -10,8 +10,8 @@
   - 295×80×18 mm
   - piastre 140×80×18 mm
 - **Recuperi frassino 25 mm**
-  - listellini 500×27×25 mm
-  - distanziali 80×20–30×25 mm
+  - [listellini assemblaggio 500×27×25 mm](assembly-strips/README.md)
+  - [distanziali 80×25×25 mm](spacers/README.md)
 - **Stopper telaio**
 - **Ferramenta telaio**
 
